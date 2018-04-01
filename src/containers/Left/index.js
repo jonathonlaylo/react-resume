@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import './Left.css';
 
 class Left extends Component {
   render() {
@@ -6,7 +7,13 @@ class Left extends Component {
       <div className="left-container">
         <div className="container">
           <h1>Jonathon Laylo</h1>
-          <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</p>
+          <p>Full Stack Developer</p>
+          <div className="links">
+            <a href="mailto:jonathon.laylo@gmail.com"><i class="far fa-envelope"></i></a>
+            <a href="https:www.linkedin.com/in/jonathonlaylo"><i class="fab fa-linkedin"></i></a>
+            <a href="https:www.github.com/jonathonlaylo"><i class="fab fa-github"></i></a>
+            <a href="https:www.twitter.com/jonathonlaylo"><i class="fab fa-twitter"></i></a>
+          </div>
         </div>
       </div>
     );
