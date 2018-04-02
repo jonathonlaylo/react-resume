@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import './Right.css';
+import logo from './buoyCall.png';
 
 class Right extends Component {
   render() {
@@ -50,7 +51,11 @@ class Right extends Component {
         <section>
           <h2>Projects</h2>
             <div className="content">
-              <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodoconsequat. Duis aute irure dolor in reprehenderit in voluptate velit essecillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatatnon proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+              <div className="content-container">
+                <div className="project">
+                  <img width="90%" src={logo} className="logo" alt="logo"/>
+                </div>
+              </div>
             </div>
         </section>
 
