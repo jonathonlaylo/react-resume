@@ -70,9 +70,9 @@ class Right extends Component {
                 </div>
                 <span>JavaScript Web Engineer</span>
                 <ul className="description">
-                  <li> </li>
-                  <li> </li>
-                  <li> </li>
+                  <li>Over 800 hours of web development programming in a six-month period</li>
+                  <li>DevLeague curriculum teaches popular coding front end frameworks such as Angular, React, TypeScript, and much more</li>
+                  <li>Learned the importance of working as a team through group projects and pair-programming</li>
                 </ul>
               </div>
 
