@@ -54,7 +54,13 @@ class Right extends Component {
               <div className="content-container">
                 <div className="project">
                   <a href="https://www.buoycall.org/" target="_blank"><img width="90%" src={logo} className="logo" alt="logo"/></a>
-                  <p>A single page application that shows visualized data of buoys scraped from NOAA, the National Oceanic and Atmospheric Administration. Users see historical data over time for buoys placed all over the world and have the ability to log in and donate via Stripe to “adopt” sharks from live data. Responsibilities in this project were front-end design, React components, and the Mapbox component to visualize buoy data. Dependencies also include Express, React, Leaflet, Redux, Stripe, Rechart, Sequelize, Node.js, PostgreSQL, and Mailgun.</p>
+                  <p>View historical data for buoys across our oceans and lakes, or adopt a shark and we'll donate to charity.</p>
+                  <p>Collaborated with 3 other students as part of our final DevLeague project.</p>
+                  <p>Personal contributions to this project include:</p>
+                  <ul className="description">
+                    <li>Front-end design, React components, and the Mapbox component to visualize buoy data.</li>
+                    <li>Dependencies also include Express, React, Leaflet, Redux, Stripe, Rechart, Sequelize, Node.js, PostgreSQL, and Mailgun.</li>
+                  </ul>
                 </div>
               </div>
             </div>
