@@ -53,7 +53,7 @@ class Right extends Component {
             <div className="content">
               <div className="content-container">
                 <div className="project">
-                  <img width="90%" src={logo} className="logo" alt="logo"/>
+                  <a href="https://www.buoycall.org/" target="_blank"><img width="90%" src={logo} className="logo" alt="logo"/></a>
                 </div>
               </div>
             </div>
