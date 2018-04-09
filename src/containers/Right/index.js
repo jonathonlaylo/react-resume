@@ -24,7 +24,12 @@ class Right extends Component {
                   <span className="date">2014 – Present</span>
                 </div>
                 <span>AT&T - San Francisco, CA</span>
-                  <p>Develop and attain customer experience and sales objectives for AT&T. Sell products and services offered by AT&T. While receiving a 85% customer satisfaction average, I consistently resolve questions through email, phone calls, and text messages. Educated customers with up-to-date knowledge of latest products and trends. Consult with customers to understand their needs and offer optimal options to choose from.</p>
+                  <ul className="description">
+                    <li>Develop and attain customer experience and sales objectives for AT&T.</li>
+                    <li>85% customer satisfaction average</li>
+                    <li>Resolve questions through email, phone calls, and text messages.</li>
+                    <li>Educated customers with up-to-date knowledge of latest products and trends. Consult with customers to understand their needs and offer optimal options to choose from.</li>
+                  </ul>
               </div>
 
               <div className="content-container">
