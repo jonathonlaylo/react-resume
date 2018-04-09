@@ -33,7 +33,11 @@ class Right extends Component {
                   <span className="date">2012-2013</span>
                 </div>
                 <span>CSS - Olympia, WA</span>
-                  <p>Hired and trained 15+ new employees. Directly supervised up to 10 employees at a time and provided individualized coaching and mentorship. Created weekly staff schedules for up to 10 employees. Measured productivity by tracking daily growth of employee sales. Monitored monthly sales goals at both the store level and individual level for every employee. Fostered a positive work atmosphere by setting competitive goals which increased sales by 15%.</p>
+                  <ul className="description">
+                    <li>Hired and trained 15+ new employees. Directly supervised up to 10 employees at a time, provided individualized coaching, and created weekly staff schedules</li>
+                    <li>Measured productivity by tracking daily growth of employee sales. Monitored monthly sales goals at both the store level and individual level for every employee.</li>
+                    <li>Fostered a positive work atmosphere by setting competitive goals which increased sales by 15%.</li>
+                  </ul>
               </div>
 
               <div className="content-container">
