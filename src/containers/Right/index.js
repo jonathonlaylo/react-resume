@@ -81,11 +81,10 @@ class Right extends Component {
                   <span className="title">University of Washington</span>
                   <span className="date">2008 – 2010</span>
                 </div>
-                <span>Institute of Technology Computing & Software System and Business Minor</span>
+                <span>Computer Science and Systems Program and Business Minor</span>
                 <ul className="description">
-                  <li> </li>
-                  <li> </li>
-                  <li> </li>
+                  <li>Acquired knowledge in object-oriented programming, algorithms, data structures, discrete structures, and software design</li>
+                  <li>Ability to communicate professionally in organizational settings, utilize technology to formulate business solutions, and presented ideas orally and in writting</li>
                 </ul>
               </div>
 
