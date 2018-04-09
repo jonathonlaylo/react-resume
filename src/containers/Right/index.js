@@ -62,9 +62,35 @@ class Right extends Component {
 
         <section>
           <h2>Education</h2>
-          <div className="content">
-            <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodoconsequat. Duis aute irure dolor in reprehenderit in voluptate velit essecillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatatnon proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-          </div>
+            <div className="content">
+              <div className="content-container">
+                <div className="job">
+                  <span className="title">DevLeague</span>
+                  <span className="date">Nov 2016 - May 2017</span>
+                </div>
+                <span>JavaScript Web Engineer</span>
+                <ul className="description">
+                  <li> </li>
+                  <li> </li>
+                  <li> </li>
+                </ul>
+              </div>
+
+              <div className="content-container">
+                <div className="job">
+                  <span className="title">University of Washington</span>
+                  <span className="date">2008 – 2010</span>
+                </div>
+                <span>Institute of Technology Computing & Software System and Business Minor</span>
+                <ul className="description">
+                  <li> </li>
+                  <li> </li>
+                  <li> </li>
+
+                </ul>
+              </div>
+
+            </div>
         </section>
       </div>
     );
