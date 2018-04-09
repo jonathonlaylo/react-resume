@@ -42,7 +42,11 @@ class Right extends Component {
                   <span className="date">2008-2011</span>
                 </div>
                 <span>Industrial Rideshop - Tukwila, WA</span>
-                  <p>Youngest employee promoted to store manager. Climbed the ranks of sales associate, supervisor, assistant manager, and then to store manager. Analyzed existing opening and closing procedures to develop new strategies that were implemented storewide. Reduced time spent on prolonged tasks by 30% for all staff.</p>
+                  <ul className="description">
+                    <li>Youngest employee promoted to store manager. Climbed the ranks of sales associate, supervisor, assistant manager, and then to store manager.</li>
+                    <li>Analyzed existing opening and closing procedures to develop new strategies that were implemented storewide.</li>
+                    <li>Reduced time spent on prolonged tasks by 30% for all staff</li>
+                  </ul>
               </div>
 
             </div>
